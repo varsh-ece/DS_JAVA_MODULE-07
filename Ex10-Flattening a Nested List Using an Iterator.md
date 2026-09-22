@@ -1,4 +1,4 @@
-# Flattening a Nested List Using an Iterator
+# EX-10 Flattening a Nested List Using an Iterator
 
 ## DATE-30.07.26
 ## AIM:
